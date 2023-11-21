@@ -1,6 +1,3 @@
-Certainly! Here's a suggested GitHub description for a repository focused on C++ language practice:
-
----
 
 # C++ Language Practice
 
